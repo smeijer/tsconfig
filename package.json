@@ -1,6 +1,6 @@
 {
 	"name": "@smeijer/tsconfig",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"description": "Shared TypeScript config for my projects",
 	"license": "MIT",
 	"repository": "smeijer/tsconfig",
@@ -14,7 +14,9 @@
 		"node": ">=16"
 	},
 	"files": [
-		"tsconfig.json"
+		"./init.js",
+		"./tsconfig.json",
+		"./license"
 	],
 	"keywords": [
 		"tsconfig",
