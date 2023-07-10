@@ -1,15 +1,14 @@
 {
 	"name": "@smeijer/tsconfig",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Shared TypeScript config for my projects",
 	"license": "MIT",
 	"repository": "smeijer/tsconfig",
-	"author": {
-		"name": "Stephan Meijer",
-		"email": "stephan.meijer@gmail.com",
-		"url": "https://meijer.ws"
-	},
-	"main": "tsconfig.json",
+	"author": "Stephan Meijer <stephan.meijer@gmail.com> (https://meijer.ws)",
+	"bugs": "https://github.com/smeijer/tsconfig/issues",
+	"homepage": "https://github.com/smeijer/tsconfig#readme",
+	"funding": "https://github.com/sponsors/smeijer",
+	"main": "./tsconfig.json",
 	"bin": "./init.js",
 	"engines": {
 		"node": ">=16"
