@@ -1,8 +1,9 @@
 {
 	"name": "@smeijer/tsconfig",
-	"version": "1.2.0",
+	"version": "2.0.0",
 	"description": "Shared TypeScript config for my projects",
 	"license": "MIT",
+	"type": "module",
 	"repository": "smeijer/tsconfig",
 	"author": "Stephan Meijer <stephan.meijer@gmail.com> (https://meijer.ws)",
 	"bugs": "https://github.com/smeijer/tsconfig/issues",
